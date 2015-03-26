@@ -2,6 +2,7 @@
 
 ## Features
 - [#2076](https://github.com/influxdb/influxdb/pull/2076): Seperate stdout and stderr output in init.d script
+- [#2081](https://github.com/influxdb/influxdb/pull/2081): Support writing diagnostic data into the internal database.
 
 
 ## v0.9.0-rc16 [2015-03-24]
